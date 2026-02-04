@@ -186,7 +186,7 @@ export const Valentines2026 = () => {
     
     // Only show error if there are invalid names, not if some correct names are found
     if (hasInvalidNames) {
-      setKidsInputError("did you seriously get our kid wrong?");
+      setKidsInputError("did you seriously get our kid's name wrong?");
       setKidsInputValid(false);
     } else if (allThreeFound) {
       // All 3 names have been found (across all submissions)
