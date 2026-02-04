@@ -173,8 +173,6 @@ export const Valentines2026 = () => {
     setCorrectNamesFound(updatedFound);
     
     // Check if all 3 valid names are present in current input
-    const allPresent = validLower.every(valid => enteredLower.includes(valid));
-    const allCorrect = enteredNames.length >= 3 && allPresent;
     
     // Check if there are any invalid names (names that aren't in the valid list)
     const hasInvalidNames = enteredNames.some(name => 
