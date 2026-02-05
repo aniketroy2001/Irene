@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Irene/static/css/main.b4948f48.css",
+    "main.js": "/Irene/static/js/main.4976bedf.js",
+    "static/media/jaipur.jpg": "/Irene/static/media/jaipur.d5b94b4bf861542e0280.jpg",
+    "static/media/paddle_boat.jpg": "/Irene/static/media/paddle_boat.39a15dbce252c0717422.jpg",
+    "static/media/rabbit.jpg": "/Irene/static/media/rabbit.526ef130229d119fa739.jpg",
+    "static/media/irene.jpg": "/Irene/static/media/irene.151005ed44ce62270771.jpg",
+    "static/media/chai.jpg": "/Irene/static/media/chai.88265b8416175f22a621.jpg",
+    "static/media/gym.jpg": "/Irene/static/media/gym.30935dca17dccf425879.jpg",
+    "static/media/black.jpg": "/Irene/static/media/black.8c26c7ca120954eef72b.jpg",
+    "static/media/my_room.jpg": "/Irene/static/media/my_room.046dffea201644c96a60.jpg",
+    "static/media/xaviers.jpg": "/Irene/static/media/xaviers.c0f0edaec45602063d79.jpg",
+    "static/media/bike_ride.jpg": "/Irene/static/media/bike_ride.df0db2bd2e8710c2f341.jpg",
+    "static/media/car.jpg": "/Irene/static/media/car.b23a33ef778e78021f47.jpg",
+    "static/media/kissie.jpg": "/Irene/static/media/kissie.f521216b529e9cca7564.jpg",
+    "static/media/mirror.jpg": "/Irene/static/media/mirror.08d6cbd80cd1fd8fcaaf.jpg",
+    "index.html": "/Irene/index.html",
+    "main.b4948f48.css.map": "/Irene/static/css/main.b4948f48.css.map",
+    "main.4976bedf.js.map": "/Irene/static/js/main.4976bedf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4948f48.css",
+    "static/js/main.4976bedf.js"
+  ]
+}
